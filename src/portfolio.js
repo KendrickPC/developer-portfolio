@@ -6,7 +6,7 @@ import airbnb from "./assets/img/icons/common/airbnbLogo.png";
 
 export const greetings = {
 	name: "Kenneth P. Chang",
-	title: "Welcome to EveryDayKenneth.EDU",
+	title: "Welcome to everyDayKenneth",
 	description:
 		"I am a passionate Full Stack Engineer with experience in MongoDB, Express, Reactjs, Node.js and Python. Contact me if you would like to build something together. 😬 ",
 	resumeLink: "https://www.yahoo.com",
