@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Grand Hotel";
+    src: url(../assets/fonts/GrandHotel-Regular.otf);
+}
+
+#nav-title{
+    font-family: "Grand Hotel";
+    text-transform: none;
+}
