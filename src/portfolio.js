@@ -9,7 +9,7 @@ export const greetings = {
 	title: "Welcome to everyDayKenneth",
 	description:
 		"I am a passionate Full Stack Engineer with experience in MongoDB, Express, Reactjs, Node.js and Python. Contact me if you would like to build something together. 😬 ",
-	resumeLink: "https://www.yahoo.com",
+	resumeLink: "https://www.espn.com",
 };
 
 export const openSource = {
@@ -28,7 +28,7 @@ export const socialLinks = {
 export const skillsSection = {
 	title: "What I do",
 	subTitle:
-		"PASSIONATE FULL STACK DEVELOPER WHO LOVES TO BUILD! ",
+		"A PASSIONATE FULL STACK DEVELOPER WHO LOVES TO BUILD! ",
 	skills: [
 		emoji(
 			"⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
@@ -190,9 +190,12 @@ export const experience = [
 
 export const projects = [
 	{
-		name: "lorem ipsum",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		link: "https://example.com",
+		name: "Kenneth's Spotify",
+		desc: "A React web application using passing state, and requests with the Spotify API, allowing users to search the Spotify library, create a custom playlist, and saving it to their Spotify account.",
+		github: "https://github.com/KendrickPC/kenneths-spotify",
+		link: "http://kenneths_spotify.surge.sh/",
+
+		
 	},
 	{
 		name: "lorem ipsum",
