@@ -198,9 +198,10 @@ export const projects = [
 		
 	},
 	{
-		name: "lorem ipsum",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		github: "https://github.com/kendrickpc",
+		name: "Kenneth's Flashcards",
+		desc: "A flashcard quiz application, using React, while connecting to an external API",
+		github: "https://github.com/KendrickPC/flashcards2",
+		link: "https://quizzical-darwin-b008a9.netlify.app/",
 	},
 	{
 		name: "lorem ipsum",
