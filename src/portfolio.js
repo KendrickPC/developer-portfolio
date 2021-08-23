@@ -204,10 +204,10 @@ export const projects = [
 		link: "https://quizzical-darwin-b008a9.netlify.app/",
 	},
 	{
-		name: "lorem ipsum",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		github: "https://github.com/kendrickpc",
-		link: "https://example.com",
+		name: "Reddit Client",
+		desc: "A Subreddit feed react app that searches through subreddits and displays their popular articles and posts.",
+		github: "https://github.com/KendrickPC/reddit-client",
+		link: "https://kendersons-reddit-client.netlify.app/",
 	},
 ];
 

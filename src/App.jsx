@@ -9,7 +9,6 @@ import Education from "./containers/Education";
 import Experience from "./containers/Experience";
 import Projects from "./containers/Projects";
 import GithubProfile from "./containers/GithubProfile";
-import Feedbacks from "./containers/Feedbacks";
 
 const App = () => {
 	return (
@@ -26,7 +25,6 @@ const App = () => {
 							<Proficiency />
 							<Education />
 							<Experience />
-							<Feedbacks />
 							<Projects />
 							<GithubProfile />
 						</>
