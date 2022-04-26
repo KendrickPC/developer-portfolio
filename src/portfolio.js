@@ -6,7 +6,7 @@ import airbnb from "./assets/img/icons/common/airbnbLogo.png";
 
 export const greetings = {
 	name: "Kenneth P. Chang",
-	title: "Welcome to everyDayKenneth",
+	title: "Welcome to EveryDayKenneth",
 	description:
 		"I am a passionate Full Stack Engineer with experience in MongoDB, Express, Reactjs, Node.js and Python. Contact me if you would like to build something together. 😬 ",
 	resumeLink: "https://www.espn.com",
@@ -174,7 +174,7 @@ export const experience = [
 export const projects = [
 	{
 		name: "Kenneth's Spotify",
-		desc: "A React web application using passing state, and requests with the Spotify API, allowing users to search the Spotify library, create a custom playlist, and saving it to their Spotify account.",
+		desc: "My React web application using passing state, and requests with the Spotify API, allowing users to search the Spotify library, create a custom playlist, and saving it to their Spotify account.",
 		github: "https://github.com/KendrickPC/kenneths-spotify",
 		link: "http://kenneths_spotify.surge.sh/",
 
@@ -182,13 +182,13 @@ export const projects = [
 	},
 	{
 		name: "Kenneth's Flashcards",
-		desc: "A flashcard quiz application, using React, while connecting to an external API",
+		desc: "My flashcard quiz application, using React, while connecting to an external API",
 		github: "https://github.com/KendrickPC/flashcards2",
 		link: "https://quizzical-darwin-b008a9.netlify.app/",
 	},
 	{
 		name: "Reddit Client",
-		desc: "A Subreddit feed react app that searches through subreddits and displays their popular articles and posts.",
+		desc: "My Subreddit feed react app that searches through subreddits and displays their popular articles and posts.",
 		github: "https://github.com/KendrickPC/reddit-client",
 		link: "https://kendersons-reddit-client.netlify.app/",
 	},
@@ -197,6 +197,12 @@ export const projects = [
 		desc: "My React JS weather application that uses the open weather API.",
 		github: "https://github.com/KendrickPC/WeatherApp",
 		link: "https://bucolic-llama-f40748.netlify.app/",
+	},
+	{
+		name: "Wikipedia Seeker",
+		desc: "My React JS Wikipedia Search App",
+		github: "https://github.com/KendrickPC/wikipedia-viewer",
+		link: "https://rad-palmier-0ab236.netlify.app/",
 	},
 	
 ];
