@@ -204,7 +204,12 @@ export const projects = [
 		github: "https://github.com/KendrickPC/wikipedia-viewer",
 		link: "https://rad-palmier-0ab236.netlify.app/",
 	},
-	
+	{
+		name: "Travel Blog",
+		desc: "My React travel App, built from scratch, with data loaded through props",
+		github: "https://github.com/KendrickPC/travelblog",
+		link: "https://kenstravelblog.netlify.app/",
+	},
 ];
 
 export const feedbacks = [

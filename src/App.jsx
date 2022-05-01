@@ -21,11 +21,12 @@ const App = () => {
 						<>
 							<Navigation />
 							<Greetings />
+							<Projects />
 							<Skills />
 							<Proficiency />
 							<Education />
 							{/* <Experience /> */}
-							<Projects />
+							
 							<GithubProfile />
 						</>
 					)}
